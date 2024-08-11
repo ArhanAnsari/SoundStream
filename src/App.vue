@@ -70,7 +70,8 @@
 
         <div id="SideNav" class="h-[100%] p-6 w-[240px] fixed z-50 bg-black">
             <RouterLink to="/">
-              <img width="125" src="/images/icons/spotify-logo.png">
+              <!--<img width="125" src="/images/icons/spotify-logo.png">-->
+                <p style="color:white">SoundStream</p>
             </RouterLink>
             <div class="my-8"></div>
             <ul>
